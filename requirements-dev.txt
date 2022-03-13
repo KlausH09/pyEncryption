@@ -1,0 +1,9 @@
+# This requirements are for development and testing only, not for production.
+autopep8
+codecov
+coverage
+isort
+pylint
+pylint_runner
+pytest
+pytest-cov

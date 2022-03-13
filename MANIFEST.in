@@ -1,0 +1,3 @@
+include dockerfile
+graft tests
+graft pyencryption
